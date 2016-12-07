@@ -29,5 +29,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I'm not sure whether the change is going to break the master.
+    When the change may be experimental.
+    Adding directly to master, is cleaner and faster.
+    Working with a branch is safer and less error-prone.
     
